@@ -87,8 +87,7 @@ function App() {
             <div
               key={index}
               id={index}
-              className='bg-success justify-content-between d-flex m-1 p-1 text-white'
-            >
+              className='bg-success justify-content-between d-flex m-1 p-1 text-white'>
               {ele}
 
               <input
